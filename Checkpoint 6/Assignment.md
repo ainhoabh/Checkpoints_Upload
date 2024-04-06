@@ -2,7 +2,7 @@
 
 1. ¿Para qué usamos Clases en Python?
 
-¿Qué método se ejecuta automáticamente cuando se crea una instancia de una clase?
+2 ¿Qué método se ejecuta automáticamente cuando se crea una instancia de una clase?
 
 ¿Cuáles son los tres verbos de API?
 
